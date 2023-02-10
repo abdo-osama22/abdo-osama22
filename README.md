@@ -87,7 +87,7 @@
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://api.nuget.org/v3-flatcontainer/efcore.bulkextensions/6.0.5/icon" width="48" height="48" alt="EF Core" />
+        <img src="https://cdn-icons-png.flaticon.com/512/402/402184.png" width="48" height="48" alt="EF Core" />
       </a>
       <br>EF Core
     </td>
