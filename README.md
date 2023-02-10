@@ -99,7 +99,7 @@
     </td>
      <td align="center" width="96">
         <a href="#livewire">
-            <img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeanaspnetwebapideveloper-mobile.png" width="48" height="48"
+            <img src="https://cdn-icons-png.flaticon.com/512/8297/8297437.png" width="48" height="48"
                 alt="Web API" />
         </a>
         <br>Web API
