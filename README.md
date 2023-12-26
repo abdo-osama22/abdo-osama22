@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Dot+Net+developer;Always+learning+new+things;I'm+Interested+In+Thing+Related+;To+Programming" alt="Typing SVG" /></a>
 
-<h3 align="center">.NET developer with a high ability to grab new concepts, problem-solving and good attention to detail. Able to work well both in a team environment as well as using my own initiative. Being worked on different projects helped me to adapt to the changes quickly and made me a mature team worker.</h3>
+<p align="center">.NET developer with a high ability to grab new concepts, problem-solving and good attention to detail. Able to work well both in a team environment as well as using my own initiative. Being worked on different projects helped me to adapt to the changes quickly and made me a mature team worker.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdo-osama22&label=Profile%20views&color=0e75b6&style=flat" alt="abdo-osama22" /> </p>
 
