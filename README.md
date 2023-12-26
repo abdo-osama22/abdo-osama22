@@ -13,7 +13,7 @@
   - Overall Grade: `Excellent`, GPA: `3.76`.
   - Graduation project: `Home Service Web App`, Grade: `Excellent`.
   - Backend - Web Development in Route Academy: ( <a href="#" target="blank">Certificate</a> ).
-  - Russian Cultural Center: ( <a href="https://drive.google.com/file/d/1kjWCZZHJn3kacsiViEdUcHlwp_hEcNK2/view?usp=share_link" target="blank">Certificate</a> ).
+  - Russian Computer Center Diploma in web developing: ( <a href="https://drive.google.com/file/d/1kjWCZZHJn3kacsiViEdUcHlwp_hEcNK2/view?usp=share_link" target="blank">Certificate</a> ).
   - Microsoft certifications: ( <a href="https://drive.google.com/file/d/11D6mIqgg-M6FXUqBEqhs0Kx-LW77tSNw/view?usp=share_link" target="blank">HTML5</a> & <a href="https://drive.google.com/file/d/1EcOaMz0s3kX5t7m-dE-FzLac-52YqHui/view?usp=share_link" target="blank">Power Point</a> & <a href="https://drive.google.com/file/d/1VLCrkJGNGffsybg7XxAzl0kgtnqgVwOP/view?usp=share_link" target="blank">Entrepreneurship and Small Business</a> ).
   <br>
 
